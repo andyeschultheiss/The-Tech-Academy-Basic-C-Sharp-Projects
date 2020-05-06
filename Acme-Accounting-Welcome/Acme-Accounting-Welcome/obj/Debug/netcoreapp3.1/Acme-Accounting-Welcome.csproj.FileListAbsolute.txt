@@ -1,0 +1,12 @@
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme-Accounting-Welcome\Acme-Accounting-Welcome\obj\Debug\netcoreapp3.1\Acme-Accounting-Welcome.csproj.CoreCompileInputs.cache
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme-Accounting-Welcome\Acme-Accounting-Welcome\obj\Debug\netcoreapp3.1\Acme-Accounting-Welcome.AssemblyInfoInputs.cache
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme-Accounting-Welcome\Acme-Accounting-Welcome\obj\Debug\netcoreapp3.1\Acme-Accounting-Welcome.AssemblyInfo.cs
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme-Accounting-Welcome\Acme-Accounting-Welcome\bin\Debug\netcoreapp3.1\Acme-Accounting-Welcome.exe
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme-Accounting-Welcome\Acme-Accounting-Welcome\bin\Debug\netcoreapp3.1\Acme-Accounting-Welcome.deps.json
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme-Accounting-Welcome\Acme-Accounting-Welcome\bin\Debug\netcoreapp3.1\Acme-Accounting-Welcome.runtimeconfig.json
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme-Accounting-Welcome\Acme-Accounting-Welcome\bin\Debug\netcoreapp3.1\Acme-Accounting-Welcome.runtimeconfig.dev.json
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme-Accounting-Welcome\Acme-Accounting-Welcome\bin\Debug\netcoreapp3.1\Acme-Accounting-Welcome.dll
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme-Accounting-Welcome\Acme-Accounting-Welcome\bin\Debug\netcoreapp3.1\Acme-Accounting-Welcome.pdb
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme-Accounting-Welcome\Acme-Accounting-Welcome\obj\Debug\netcoreapp3.1\Acme-Accounting-Welcome.dll
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme-Accounting-Welcome\Acme-Accounting-Welcome\obj\Debug\netcoreapp3.1\Acme-Accounting-Welcome.pdb
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme-Accounting-Welcome\Acme-Accounting-Welcome\obj\Debug\netcoreapp3.1\Acme-Accounting-Welcome.genruntimeconfig.cache
