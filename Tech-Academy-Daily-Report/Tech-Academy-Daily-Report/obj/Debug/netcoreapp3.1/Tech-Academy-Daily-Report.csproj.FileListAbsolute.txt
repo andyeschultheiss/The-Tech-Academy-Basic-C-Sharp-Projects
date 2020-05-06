@@ -1,0 +1,13 @@
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Tech-Academy-Daily-Report\Tech-Academy-Daily-Report\bin\Debug\netcoreapp3.1\Tech-Academy-Daily-Report.exe
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Tech-Academy-Daily-Report\Tech-Academy-Daily-Report\bin\Debug\netcoreapp3.1\Tech-Academy-Daily-Report.deps.json
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Tech-Academy-Daily-Report\Tech-Academy-Daily-Report\bin\Debug\netcoreapp3.1\Tech-Academy-Daily-Report.runtimeconfig.json
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Tech-Academy-Daily-Report\Tech-Academy-Daily-Report\bin\Debug\netcoreapp3.1\Tech-Academy-Daily-Report.runtimeconfig.dev.json
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Tech-Academy-Daily-Report\Tech-Academy-Daily-Report\bin\Debug\netcoreapp3.1\Tech-Academy-Daily-Report.dll
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Tech-Academy-Daily-Report\Tech-Academy-Daily-Report\bin\Debug\netcoreapp3.1\Tech-Academy-Daily-Report.pdb
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Tech-Academy-Daily-Report\Tech-Academy-Daily-Report\obj\Debug\netcoreapp3.1\Tech-Academy-Daily-Report.csprojAssemblyReference.cache
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Tech-Academy-Daily-Report\Tech-Academy-Daily-Report\obj\Debug\netcoreapp3.1\Tech-Academy-Daily-Report.csproj.CoreCompileInputs.cache
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Tech-Academy-Daily-Report\Tech-Academy-Daily-Report\obj\Debug\netcoreapp3.1\Tech-Academy-Daily-Report.AssemblyInfoInputs.cache
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Tech-Academy-Daily-Report\Tech-Academy-Daily-Report\obj\Debug\netcoreapp3.1\Tech-Academy-Daily-Report.AssemblyInfo.cs
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Tech-Academy-Daily-Report\Tech-Academy-Daily-Report\obj\Debug\netcoreapp3.1\Tech-Academy-Daily-Report.dll
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Tech-Academy-Daily-Report\Tech-Academy-Daily-Report\obj\Debug\netcoreapp3.1\Tech-Academy-Daily-Report.pdb
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Tech-Academy-Daily-Report\Tech-Academy-Daily-Report\obj\Debug\netcoreapp3.1\Tech-Academy-Daily-Report.genruntimeconfig.cache
