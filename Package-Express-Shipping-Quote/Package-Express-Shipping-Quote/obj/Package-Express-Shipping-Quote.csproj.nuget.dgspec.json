@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andye\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Car-Insurance-Questionnaire\\Car-Insurance-Questionnaire\\Car-Insurance-Questionnaire.csproj": {}
+    "C:\\Users\\andye\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Package-Express-Shipping-Quote\\Package-Express-Shipping-Quote\\Package-Express-Shipping-Quote.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andye\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Car-Insurance-Questionnaire\\Car-Insurance-Questionnaire\\Car-Insurance-Questionnaire.csproj": {
+    "C:\\Users\\andye\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Package-Express-Shipping-Quote\\Package-Express-Shipping-Quote\\Package-Express-Shipping-Quote.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andye\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Car-Insurance-Questionnaire\\Car-Insurance-Questionnaire\\Car-Insurance-Questionnaire.csproj",
-        "projectName": "Car-Insurance-Questionnaire",
-        "projectPath": "C:\\Users\\andye\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Car-Insurance-Questionnaire\\Car-Insurance-Questionnaire\\Car-Insurance-Questionnaire.csproj",
+        "projectUniqueName": "C:\\Users\\andye\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Package-Express-Shipping-Quote\\Package-Express-Shipping-Quote\\Package-Express-Shipping-Quote.csproj",
+        "projectName": "Package-Express-Shipping-Quote",
+        "projectPath": "C:\\Users\\andye\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Package-Express-Shipping-Quote\\Package-Express-Shipping-Quote\\Package-Express-Shipping-Quote.csproj",
         "packagesPath": "C:\\Users\\andye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andye\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Car-Insurance-Questionnaire\\Car-Insurance-Questionnaire\\obj\\",
+        "outputPath": "C:\\Users\\andye\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Package-Express-Shipping-Quote\\Package-Express-Shipping-Quote\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

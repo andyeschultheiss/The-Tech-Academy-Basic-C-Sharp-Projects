@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Package-Express-Shipping-Quote/1.0.0": {
+        "runtime": {
+          "Package-Express-Shipping-Quote.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Package-Express-Shipping-Quote/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
