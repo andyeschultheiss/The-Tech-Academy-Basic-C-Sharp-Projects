@@ -1,0 +1,13 @@
+C:\Users\andye\Source\Repos\Car-Insurance-Questionnaire\Car-Insurance-Questionnaire\bin\Debug\netcoreapp3.1\Car-Insurance-Questionnaire.exe
+C:\Users\andye\Source\Repos\Car-Insurance-Questionnaire\Car-Insurance-Questionnaire\bin\Debug\netcoreapp3.1\Car-Insurance-Questionnaire.deps.json
+C:\Users\andye\Source\Repos\Car-Insurance-Questionnaire\Car-Insurance-Questionnaire\bin\Debug\netcoreapp3.1\Car-Insurance-Questionnaire.runtimeconfig.json
+C:\Users\andye\Source\Repos\Car-Insurance-Questionnaire\Car-Insurance-Questionnaire\bin\Debug\netcoreapp3.1\Car-Insurance-Questionnaire.runtimeconfig.dev.json
+C:\Users\andye\Source\Repos\Car-Insurance-Questionnaire\Car-Insurance-Questionnaire\bin\Debug\netcoreapp3.1\Car-Insurance-Questionnaire.dll
+C:\Users\andye\Source\Repos\Car-Insurance-Questionnaire\Car-Insurance-Questionnaire\bin\Debug\netcoreapp3.1\Car-Insurance-Questionnaire.pdb
+C:\Users\andye\Source\Repos\Car-Insurance-Questionnaire\Car-Insurance-Questionnaire\obj\Debug\netcoreapp3.1\Car-Insurance-Questionnaire.csprojAssemblyReference.cache
+C:\Users\andye\Source\Repos\Car-Insurance-Questionnaire\Car-Insurance-Questionnaire\obj\Debug\netcoreapp3.1\Car-Insurance-Questionnaire.csproj.CoreCompileInputs.cache
+C:\Users\andye\Source\Repos\Car-Insurance-Questionnaire\Car-Insurance-Questionnaire\obj\Debug\netcoreapp3.1\Car-Insurance-Questionnaire.AssemblyInfoInputs.cache
+C:\Users\andye\Source\Repos\Car-Insurance-Questionnaire\Car-Insurance-Questionnaire\obj\Debug\netcoreapp3.1\Car-Insurance-Questionnaire.AssemblyInfo.cs
+C:\Users\andye\Source\Repos\Car-Insurance-Questionnaire\Car-Insurance-Questionnaire\obj\Debug\netcoreapp3.1\Car-Insurance-Questionnaire.dll
+C:\Users\andye\Source\Repos\Car-Insurance-Questionnaire\Car-Insurance-Questionnaire\obj\Debug\netcoreapp3.1\Car-Insurance-Questionnaire.pdb
+C:\Users\andye\Source\Repos\Car-Insurance-Questionnaire\Car-Insurance-Questionnaire\obj\Debug\netcoreapp3.1\Car-Insurance-Questionnaire.genruntimeconfig.cache
