@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Anonymous-Income-Comparison/1.0.0": {
+        "runtime": {
+          "Anonymous-Income-Comparison.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Anonymous-Income-Comparison/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
