@@ -1,0 +1,13 @@
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math-Operations-Console\Math-Operations-Console\bin\Debug\netcoreapp3.1\Math-Operations-Console.exe
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math-Operations-Console\Math-Operations-Console\bin\Debug\netcoreapp3.1\Math-Operations-Console.deps.json
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math-Operations-Console\Math-Operations-Console\bin\Debug\netcoreapp3.1\Math-Operations-Console.runtimeconfig.json
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math-Operations-Console\Math-Operations-Console\bin\Debug\netcoreapp3.1\Math-Operations-Console.runtimeconfig.dev.json
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math-Operations-Console\Math-Operations-Console\bin\Debug\netcoreapp3.1\Math-Operations-Console.dll
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math-Operations-Console\Math-Operations-Console\bin\Debug\netcoreapp3.1\Math-Operations-Console.pdb
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math-Operations-Console\Math-Operations-Console\obj\Debug\netcoreapp3.1\Math-Operations-Console.csprojAssemblyReference.cache
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math-Operations-Console\Math-Operations-Console\obj\Debug\netcoreapp3.1\Math-Operations-Console.csproj.CoreCompileInputs.cache
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math-Operations-Console\Math-Operations-Console\obj\Debug\netcoreapp3.1\Math-Operations-Console.AssemblyInfoInputs.cache
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math-Operations-Console\Math-Operations-Console\obj\Debug\netcoreapp3.1\Math-Operations-Console.AssemblyInfo.cs
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math-Operations-Console\Math-Operations-Console\obj\Debug\netcoreapp3.1\Math-Operations-Console.dll
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math-Operations-Console\Math-Operations-Console\obj\Debug\netcoreapp3.1\Math-Operations-Console.pdb
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math-Operations-Console\Math-Operations-Console\obj\Debug\netcoreapp3.1\Math-Operations-Console.genruntimeconfig.cache
