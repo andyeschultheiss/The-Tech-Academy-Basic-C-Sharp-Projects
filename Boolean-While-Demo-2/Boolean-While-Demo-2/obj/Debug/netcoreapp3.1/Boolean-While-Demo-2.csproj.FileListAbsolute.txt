@@ -1,0 +1,12 @@
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean-While-Demo-2\Boolean-While-Demo-2\bin\Debug\netcoreapp3.1\Boolean-While-Demo-2.exe
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean-While-Demo-2\Boolean-While-Demo-2\bin\Debug\netcoreapp3.1\Boolean-While-Demo-2.deps.json
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean-While-Demo-2\Boolean-While-Demo-2\bin\Debug\netcoreapp3.1\Boolean-While-Demo-2.runtimeconfig.json
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean-While-Demo-2\Boolean-While-Demo-2\bin\Debug\netcoreapp3.1\Boolean-While-Demo-2.runtimeconfig.dev.json
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean-While-Demo-2\Boolean-While-Demo-2\bin\Debug\netcoreapp3.1\Boolean-While-Demo-2.dll
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean-While-Demo-2\Boolean-While-Demo-2\bin\Debug\netcoreapp3.1\Boolean-While-Demo-2.pdb
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean-While-Demo-2\Boolean-While-Demo-2\obj\Debug\netcoreapp3.1\Boolean-While-Demo-2.csproj.CoreCompileInputs.cache
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean-While-Demo-2\Boolean-While-Demo-2\obj\Debug\netcoreapp3.1\Boolean-While-Demo-2.AssemblyInfoInputs.cache
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean-While-Demo-2\Boolean-While-Demo-2\obj\Debug\netcoreapp3.1\Boolean-While-Demo-2.AssemblyInfo.cs
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean-While-Demo-2\Boolean-While-Demo-2\obj\Debug\netcoreapp3.1\Boolean-While-Demo-2.dll
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean-While-Demo-2\Boolean-While-Demo-2\obj\Debug\netcoreapp3.1\Boolean-While-Demo-2.pdb
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Boolean-While-Demo-2\Boolean-While-Demo-2\obj\Debug\netcoreapp3.1\Boolean-While-Demo-2.genruntimeconfig.cache
