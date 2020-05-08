@@ -1,0 +1,12 @@
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Array-and-List-Demos\Array-and-List-Demos\bin\Debug\netcoreapp3.1\Array-and-List-Demos.exe
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Array-and-List-Demos\Array-and-List-Demos\bin\Debug\netcoreapp3.1\Array-and-List-Demos.deps.json
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Array-and-List-Demos\Array-and-List-Demos\bin\Debug\netcoreapp3.1\Array-and-List-Demos.runtimeconfig.json
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Array-and-List-Demos\Array-and-List-Demos\bin\Debug\netcoreapp3.1\Array-and-List-Demos.runtimeconfig.dev.json
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Array-and-List-Demos\Array-and-List-Demos\bin\Debug\netcoreapp3.1\Array-and-List-Demos.dll
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Array-and-List-Demos\Array-and-List-Demos\bin\Debug\netcoreapp3.1\Array-and-List-Demos.pdb
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Array-and-List-Demos\Array-and-List-Demos\obj\Debug\netcoreapp3.1\Array-and-List-Demos.csproj.CoreCompileInputs.cache
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Array-and-List-Demos\Array-and-List-Demos\obj\Debug\netcoreapp3.1\Array-and-List-Demos.AssemblyInfoInputs.cache
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Array-and-List-Demos\Array-and-List-Demos\obj\Debug\netcoreapp3.1\Array-and-List-Demos.AssemblyInfo.cs
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Array-and-List-Demos\Array-and-List-Demos\obj\Debug\netcoreapp3.1\Array-and-List-Demos.dll
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Array-and-List-Demos\Array-and-List-Demos\obj\Debug\netcoreapp3.1\Array-and-List-Demos.pdb
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Array-and-List-Demos\Array-and-List-Demos\obj\Debug\netcoreapp3.1\Array-and-List-Demos.genruntimeconfig.cache
