@@ -10,3 +10,4 @@ C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects
 C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Array-and-List-Demos\Array-and-List-Demos\obj\Debug\netcoreapp3.1\Array-and-List-Demos.dll
 C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Array-and-List-Demos\Array-and-List-Demos\obj\Debug\netcoreapp3.1\Array-and-List-Demos.pdb
 C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Array-and-List-Demos\Array-and-List-Demos\obj\Debug\netcoreapp3.1\Array-and-List-Demos.genruntimeconfig.cache
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Array-and-List-Demos\Array-and-List-Demos\obj\Debug\netcoreapp3.1\Array-and-List-Demos.csprojAssemblyReference.cache

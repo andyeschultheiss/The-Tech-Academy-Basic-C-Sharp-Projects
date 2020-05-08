@@ -15,11 +15,12 @@ namespace Boolean_While_Demo
                 if (inputNum == 7)
                 {
                     Console.WriteLine("Correct! You guessed the number.");
-                    break;
                 }
-                string suggestion = inputNum > 7 ? "Too high. Try a lower number." : "Too low. Try a greater number.";
-                Console.WriteLine(suggestion);
-
+                else
+                {
+                    string suggestion = inputNum > 7 ? "Too high. Try a lower number." : "Too low. Try a greater number.";
+                    Console.WriteLine(suggestion);
+                }
             }
             while (inputNum != 7);
 
