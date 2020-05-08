@@ -1,0 +1,13 @@
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\String-Examples\String-Examples\bin\Debug\netcoreapp3.1\String-Examples.exe
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\String-Examples\String-Examples\bin\Debug\netcoreapp3.1\String-Examples.deps.json
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\String-Examples\String-Examples\bin\Debug\netcoreapp3.1\String-Examples.runtimeconfig.json
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\String-Examples\String-Examples\bin\Debug\netcoreapp3.1\String-Examples.runtimeconfig.dev.json
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\String-Examples\String-Examples\bin\Debug\netcoreapp3.1\String-Examples.dll
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\String-Examples\String-Examples\bin\Debug\netcoreapp3.1\String-Examples.pdb
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\String-Examples\String-Examples\obj\Debug\netcoreapp3.1\String-Examples.csprojAssemblyReference.cache
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\String-Examples\String-Examples\obj\Debug\netcoreapp3.1\String-Examples.csproj.CoreCompileInputs.cache
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\String-Examples\String-Examples\obj\Debug\netcoreapp3.1\String-Examples.AssemblyInfoInputs.cache
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\String-Examples\String-Examples\obj\Debug\netcoreapp3.1\String-Examples.AssemblyInfo.cs
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\String-Examples\String-Examples\obj\Debug\netcoreapp3.1\String-Examples.dll
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\String-Examples\String-Examples\obj\Debug\netcoreapp3.1\String-Examples.pdb
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\String-Examples\String-Examples\obj\Debug\netcoreapp3.1\String-Examples.genruntimeconfig.cache
