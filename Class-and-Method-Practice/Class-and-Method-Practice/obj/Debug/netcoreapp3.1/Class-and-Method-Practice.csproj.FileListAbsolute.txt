@@ -1,0 +1,13 @@
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Class-and-Method-Practice\Class-and-Method-Practice\bin\Debug\netcoreapp3.1\Class-and-Method-Practice.exe
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Class-and-Method-Practice\Class-and-Method-Practice\bin\Debug\netcoreapp3.1\Class-and-Method-Practice.deps.json
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Class-and-Method-Practice\Class-and-Method-Practice\bin\Debug\netcoreapp3.1\Class-and-Method-Practice.runtimeconfig.json
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Class-and-Method-Practice\Class-and-Method-Practice\bin\Debug\netcoreapp3.1\Class-and-Method-Practice.runtimeconfig.dev.json
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Class-and-Method-Practice\Class-and-Method-Practice\bin\Debug\netcoreapp3.1\Class-and-Method-Practice.dll
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Class-and-Method-Practice\Class-and-Method-Practice\bin\Debug\netcoreapp3.1\Class-and-Method-Practice.pdb
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Class-and-Method-Practice\Class-and-Method-Practice\obj\Debug\netcoreapp3.1\Class-and-Method-Practice.csprojAssemblyReference.cache
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Class-and-Method-Practice\Class-and-Method-Practice\obj\Debug\netcoreapp3.1\Class-and-Method-Practice.csproj.CoreCompileInputs.cache
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Class-and-Method-Practice\Class-and-Method-Practice\obj\Debug\netcoreapp3.1\Class-and-Method-Practice.AssemblyInfoInputs.cache
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Class-and-Method-Practice\Class-and-Method-Practice\obj\Debug\netcoreapp3.1\Class-and-Method-Practice.AssemblyInfo.cs
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Class-and-Method-Practice\Class-and-Method-Practice\obj\Debug\netcoreapp3.1\Class-and-Method-Practice.dll
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Class-and-Method-Practice\Class-and-Method-Practice\obj\Debug\netcoreapp3.1\Class-and-Method-Practice.pdb
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Class-and-Method-Practice\Class-and-Method-Practice\obj\Debug\netcoreapp3.1\Class-and-Method-Practice.genruntimeconfig.cache
