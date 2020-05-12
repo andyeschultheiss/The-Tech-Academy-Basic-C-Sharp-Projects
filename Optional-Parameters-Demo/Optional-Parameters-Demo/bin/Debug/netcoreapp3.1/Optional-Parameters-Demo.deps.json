@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Optional-Parameters-Demo/1.0.0": {
+        "runtime": {
+          "Optional-Parameters-Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Optional-Parameters-Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -25,6 +25,8 @@ namespace Class_and_Method_Practice
         {
             return inputInt % 4;
         }
+
+        public static int 
     }
 
 }
