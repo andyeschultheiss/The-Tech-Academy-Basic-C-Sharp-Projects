@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Void-Function-Example/1.0.0": {
+        "runtime": {
+          "Void-Function-Example.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Void-Function-Example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
