@@ -1,0 +1,12 @@
+C:\Users\andye\Source\Repos\Person-App\Person-App\obj\Debug\netcoreapp3.1\Person-App.csproj.CoreCompileInputs.cache
+C:\Users\andye\Source\Repos\Person-App\Person-App\obj\Debug\netcoreapp3.1\Person-App.AssemblyInfoInputs.cache
+C:\Users\andye\Source\Repos\Person-App\Person-App\obj\Debug\netcoreapp3.1\Person-App.AssemblyInfo.cs
+C:\Users\andye\Source\Repos\Person-App\Person-App\bin\Debug\netcoreapp3.1\Person-App.exe
+C:\Users\andye\Source\Repos\Person-App\Person-App\bin\Debug\netcoreapp3.1\Person-App.deps.json
+C:\Users\andye\Source\Repos\Person-App\Person-App\bin\Debug\netcoreapp3.1\Person-App.runtimeconfig.json
+C:\Users\andye\Source\Repos\Person-App\Person-App\bin\Debug\netcoreapp3.1\Person-App.runtimeconfig.dev.json
+C:\Users\andye\Source\Repos\Person-App\Person-App\bin\Debug\netcoreapp3.1\Person-App.dll
+C:\Users\andye\Source\Repos\Person-App\Person-App\bin\Debug\netcoreapp3.1\Person-App.pdb
+C:\Users\andye\Source\Repos\Person-App\Person-App\obj\Debug\netcoreapp3.1\Person-App.dll
+C:\Users\andye\Source\Repos\Person-App\Person-App\obj\Debug\netcoreapp3.1\Person-App.pdb
+C:\Users\andye\Source\Repos\Person-App\Person-App\obj\Debug\netcoreapp3.1\Person-App.genruntimeconfig.cache
