@@ -1,0 +1,13 @@
+C:\Users\andye\Source\Repos\Classes-and-Methods-more-practice\Classes-and-Methods-more-practice\obj\Debug\netcoreapp3.1\Classes-and-Methods-more-practice.csprojAssemblyReference.cache
+C:\Users\andye\Source\Repos\Classes-and-Methods-more-practice\Classes-and-Methods-more-practice\obj\Debug\netcoreapp3.1\Classes-and-Methods-more-practice.csproj.CoreCompileInputs.cache
+C:\Users\andye\Source\Repos\Classes-and-Methods-more-practice\Classes-and-Methods-more-practice\obj\Debug\netcoreapp3.1\Classes-and-Methods-more-practice.AssemblyInfoInputs.cache
+C:\Users\andye\Source\Repos\Classes-and-Methods-more-practice\Classes-and-Methods-more-practice\obj\Debug\netcoreapp3.1\Classes-and-Methods-more-practice.AssemblyInfo.cs
+C:\Users\andye\Source\Repos\Classes-and-Methods-more-practice\Classes-and-Methods-more-practice\bin\Debug\netcoreapp3.1\Classes-and-Methods-more-practice.exe
+C:\Users\andye\Source\Repos\Classes-and-Methods-more-practice\Classes-and-Methods-more-practice\bin\Debug\netcoreapp3.1\Classes-and-Methods-more-practice.deps.json
+C:\Users\andye\Source\Repos\Classes-and-Methods-more-practice\Classes-and-Methods-more-practice\bin\Debug\netcoreapp3.1\Classes-and-Methods-more-practice.runtimeconfig.json
+C:\Users\andye\Source\Repos\Classes-and-Methods-more-practice\Classes-and-Methods-more-practice\bin\Debug\netcoreapp3.1\Classes-and-Methods-more-practice.runtimeconfig.dev.json
+C:\Users\andye\Source\Repos\Classes-and-Methods-more-practice\Classes-and-Methods-more-practice\bin\Debug\netcoreapp3.1\Classes-and-Methods-more-practice.dll
+C:\Users\andye\Source\Repos\Classes-and-Methods-more-practice\Classes-and-Methods-more-practice\bin\Debug\netcoreapp3.1\Classes-and-Methods-more-practice.pdb
+C:\Users\andye\Source\Repos\Classes-and-Methods-more-practice\Classes-and-Methods-more-practice\obj\Debug\netcoreapp3.1\Classes-and-Methods-more-practice.dll
+C:\Users\andye\Source\Repos\Classes-and-Methods-more-practice\Classes-and-Methods-more-practice\obj\Debug\netcoreapp3.1\Classes-and-Methods-more-practice.pdb
+C:\Users\andye\Source\Repos\Classes-and-Methods-more-practice\Classes-and-Methods-more-practice\obj\Debug\netcoreapp3.1\Classes-and-Methods-more-practice.genruntimeconfig.cache
