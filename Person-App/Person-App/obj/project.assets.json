@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andye\\Source\\Repos\\Person-App\\Person-App\\Person-App.csproj",
+      "projectUniqueName": "C:\\Users\\andye\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Person-App\\Person-App\\Person-App.csproj",
       "projectName": "Person-App",
-      "projectPath": "C:\\Users\\andye\\Source\\Repos\\Person-App\\Person-App\\Person-App.csproj",
+      "projectPath": "C:\\Users\\andye\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Person-App\\Person-App\\Person-App.csproj",
       "packagesPath": "C:\\Users\\andye\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andye\\Source\\Repos\\Person-App\\Person-App\\obj\\",
+      "outputPath": "C:\\Users\\andye\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Person-App\\Person-App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

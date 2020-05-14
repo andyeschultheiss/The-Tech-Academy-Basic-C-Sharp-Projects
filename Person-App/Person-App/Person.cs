@@ -4,15 +4,12 @@ using System.Text;
 
 namespace Person_App
 {
-    public class Person
+    public abstract class Person
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
-        public void SayName()
-        {
-            Console.WriteLine("Name: {0} {1}", FirstName, LastName);
-        }
+        public abstract void SayName();
 
     }
 }
