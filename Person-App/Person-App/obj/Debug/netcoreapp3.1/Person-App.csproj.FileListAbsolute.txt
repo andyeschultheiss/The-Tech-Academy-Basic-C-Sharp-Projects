@@ -22,3 +22,4 @@ C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects
 C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Person-App\Person-App\obj\Debug\netcoreapp3.1\Person-App.dll
 C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Person-App\Person-App\obj\Debug\netcoreapp3.1\Person-App.pdb
 C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Person-App\Person-App\obj\Debug\netcoreapp3.1\Person-App.genruntimeconfig.cache
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Person-App\Person-App\obj\Debug\netcoreapp3.1\Person-App.csprojAssemblyReference.cache

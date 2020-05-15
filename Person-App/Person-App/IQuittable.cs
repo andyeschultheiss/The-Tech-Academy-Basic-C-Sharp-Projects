@@ -2,9 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Twenty_One
+namespace Person_App
 {
-    class Class1
+    interface IQuittable
     {
+        void Quit();
+    
     }
 }

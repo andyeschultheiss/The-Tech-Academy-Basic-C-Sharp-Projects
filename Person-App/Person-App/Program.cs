@@ -12,8 +12,12 @@ namespace Person_App
             sampleEmployee.FirstName = "Sample";
             sampleEmployee.LastName = "Student";
             sampleEmployee.SayName();
+            sampleEmployee.Quit();
+            IQuittable quitTime = new Employee();
+            
+            Console.WriteLine("It's time to go...");
+            quitTime.Quit();
 
-            Console.ReadLine();
         }
     }
 }
