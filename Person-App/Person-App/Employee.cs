@@ -7,9 +7,11 @@ using System.Text;
 
 namespace Person_App
 {
-    public class Employee : Person, IQuittable
+    public class Employee<T> : Person, IQuittable
     {
         public int Id { get; set; }
+
+        public List<T> things { get; set; }
 
         public override void SayName()
         {
@@ -29,7 +31,7 @@ namespace Person_App
                 Console.WriteLine("okie dokie...");
             }
         }
-        public static bool operator== (Employee firstEmployee, Employee secondEmployee)
+        public static bool operator == (Employee<T> firstEmployee, Employee<T> secondEmployee)
         {
             if (firstEmployee.Id == secondEmployee.Id)
             {
@@ -40,7 +42,7 @@ namespace Person_App
                 return false;
             }
         }
-        public static bool operator!= (Employee firstEmployee, Employee secondEmployee)
+        public static bool operator != (Employee<T> firstEmployee, Employee<T> secondEmployee)
         {
             if (firstEmployee.Id != secondEmployee.Id)
             {
