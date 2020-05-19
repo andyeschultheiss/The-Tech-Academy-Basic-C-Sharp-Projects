@@ -1,0 +1,13 @@
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Enum-Practice\Enum-Practice\bin\Debug\netcoreapp3.1\Enum-Practice.exe
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Enum-Practice\Enum-Practice\bin\Debug\netcoreapp3.1\Enum-Practice.deps.json
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Enum-Practice\Enum-Practice\bin\Debug\netcoreapp3.1\Enum-Practice.runtimeconfig.json
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Enum-Practice\Enum-Practice\bin\Debug\netcoreapp3.1\Enum-Practice.runtimeconfig.dev.json
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Enum-Practice\Enum-Practice\bin\Debug\netcoreapp3.1\Enum-Practice.dll
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Enum-Practice\Enum-Practice\bin\Debug\netcoreapp3.1\Enum-Practice.pdb
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Enum-Practice\Enum-Practice\obj\Debug\netcoreapp3.1\Enum-Practice.csprojAssemblyReference.cache
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Enum-Practice\Enum-Practice\obj\Debug\netcoreapp3.1\Enum-Practice.csproj.CoreCompileInputs.cache
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Enum-Practice\Enum-Practice\obj\Debug\netcoreapp3.1\Enum-Practice.AssemblyInfoInputs.cache
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Enum-Practice\Enum-Practice\obj\Debug\netcoreapp3.1\Enum-Practice.AssemblyInfo.cs
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Enum-Practice\Enum-Practice\obj\Debug\netcoreapp3.1\Enum-Practice.dll
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Enum-Practice\Enum-Practice\obj\Debug\netcoreapp3.1\Enum-Practice.pdb
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Enum-Practice\Enum-Practice\obj\Debug\netcoreapp3.1\Enum-Practice.genruntimeconfig.cache
