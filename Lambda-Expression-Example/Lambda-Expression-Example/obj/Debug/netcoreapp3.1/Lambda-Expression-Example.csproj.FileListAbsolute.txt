@@ -1,0 +1,13 @@
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda-Expression-Example\Lambda-Expression-Example\bin\Debug\netcoreapp3.1\Lambda-Expression-Example.exe
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda-Expression-Example\Lambda-Expression-Example\bin\Debug\netcoreapp3.1\Lambda-Expression-Example.deps.json
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda-Expression-Example\Lambda-Expression-Example\bin\Debug\netcoreapp3.1\Lambda-Expression-Example.runtimeconfig.json
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda-Expression-Example\Lambda-Expression-Example\bin\Debug\netcoreapp3.1\Lambda-Expression-Example.runtimeconfig.dev.json
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda-Expression-Example\Lambda-Expression-Example\bin\Debug\netcoreapp3.1\Lambda-Expression-Example.dll
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda-Expression-Example\Lambda-Expression-Example\bin\Debug\netcoreapp3.1\Lambda-Expression-Example.pdb
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda-Expression-Example\Lambda-Expression-Example\obj\Debug\netcoreapp3.1\Lambda-Expression-Example.csprojAssemblyReference.cache
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda-Expression-Example\Lambda-Expression-Example\obj\Debug\netcoreapp3.1\Lambda-Expression-Example.csproj.CoreCompileInputs.cache
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda-Expression-Example\Lambda-Expression-Example\obj\Debug\netcoreapp3.1\Lambda-Expression-Example.AssemblyInfoInputs.cache
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda-Expression-Example\Lambda-Expression-Example\obj\Debug\netcoreapp3.1\Lambda-Expression-Example.AssemblyInfo.cs
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda-Expression-Example\Lambda-Expression-Example\obj\Debug\netcoreapp3.1\Lambda-Expression-Example.dll
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda-Expression-Example\Lambda-Expression-Example\obj\Debug\netcoreapp3.1\Lambda-Expression-Example.pdb
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda-Expression-Example\Lambda-Expression-Example\obj\Debug\netcoreapp3.1\Lambda-Expression-Example.genruntimeconfig.cache
