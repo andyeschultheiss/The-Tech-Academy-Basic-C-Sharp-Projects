@@ -12,17 +12,27 @@ namespace Twenty_One
 
         public static void playAgain(Player player)
         {
-            Console.WriteLine("Do you want to play again, {0}?", player.Name);
-            string answer = Console.ReadLine().ToLower();
-            if (answer.StartsWith('y'))
+            if (player.Balance > 0)
             {
-                player.IsActive = true;
-                return;
+                Console.WriteLine("Do you want to play again, {0}?", player.Name);
+                string answer = Console.ReadLine().ToLower();
+                if (answer.StartsWith('y'))
+                {
+                    player.IsActive = true;
+                    return;
+                }
+                else if (answer.StartsWith('n'))
+                {
+                    player.IsActive = false;
+                    Console.WriteLine("Goodbye, {0}!", player.Name);
+                    return;
+                }
             }
-            else
+            else if (player.Balance <= 0)
             {
-                player.IsActive = false;
+                Console.WriteLine("You have broken the bank! Your balance is {0}", player.Balance);
                 Console.WriteLine("Goodbye, {0}!", player.Name);
+                player.IsActive = false;
                 return;
             }
         }
