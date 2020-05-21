@@ -206,7 +206,8 @@ namespace Twenty_One
                 }
                 else
                 {
-                    playAgain(player);
+                    Console.WriteLine("Dealer wins {0}.", Bets[player]);
+                    Dealer.Balance += Bets[player];
                 }
             }
             return;
