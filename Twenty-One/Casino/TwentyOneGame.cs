@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Twenty_One
+namespace Casino.TwentyOne
 {
     public class TwentyOneGame : Game, IWalkAway
     {
@@ -16,12 +16,12 @@ namespace Twenty_One
             {
                 Console.WriteLine("Do you want to play again, {0}?", player.Name);
                 string answer = Console.ReadLine().ToLower();
-                if (answer.StartsWith('y'))
+                if (answer.StartsWith("y"))
                 {
                     player.IsActive = true;
                     return;
                 }
-                else if (answer.StartsWith('n'))
+                else if (answer.StartsWith("n"))
                 {
                     player.IsActive = false;
                     Console.WriteLine("Goodbye, {0}!", player.Name);
@@ -134,12 +134,12 @@ namespace Twenty_One
                     }
                     Console.WriteLine("\nHit or Stay?");
                     string answer = Console.ReadLine().ToLower();
-                    if (answer.StartsWith('s'))
+                    if (answer.StartsWith("s"))
                     {
                         player.Stay = true;
                         break;
                     }
-                    else if (answer.StartsWith('h'))
+                    else if (answer.StartsWith("h"))
                     {
                         Dealer.Deal(player.Hand);
                     }

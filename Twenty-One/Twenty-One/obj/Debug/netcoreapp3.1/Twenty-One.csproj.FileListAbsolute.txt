@@ -11,3 +11,6 @@ C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects
 C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Twenty-One\Twenty-One\obj\Debug\netcoreapp3.1\Twenty-One.dll
 C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Twenty-One\Twenty-One\obj\Debug\netcoreapp3.1\Twenty-One.pdb
 C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Twenty-One\Twenty-One\obj\Debug\netcoreapp3.1\Twenty-One.genruntimeconfig.cache
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Twenty-One\Twenty-One\bin\Debug\netcoreapp3.1\Casino.dll
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Twenty-One\Twenty-One\bin\Debug\netcoreapp3.1\Casino.pdb
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Twenty-One\Twenty-One\obj\Debug\netcoreapp3.1\Twenty-One.csproj.CopyComplete

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Twenty_One
+namespace Casino
 {
     public class Player
     {
@@ -21,6 +21,7 @@ namespace Twenty_One
         public string Name { get; set; }
         public bool IsActive { get; set; }
         public bool Stay { get; set; }
+        public Guid Id { get; set; }
 
         public bool Bet(int amount)
         {

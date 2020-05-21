@@ -1,9 +1,11 @@
-﻿ using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using Casino;
+using Casino.TwentyOne;
 
 namespace Twenty_One
 {
@@ -21,6 +23,11 @@ namespace Twenty_One
                 Console.WriteLine("How much money would you like to put up?");
                 int bank = Convert.ToInt32(Console.ReadLine());
                 Player newPlayer = new Player(playerName, bank);
+                newPlayer.Id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"C:\Users\andye\logs\cardlog.txt", true))
+                {
+                    file.WriteLine(newPlayer.Id);
+                }
                 game += newPlayer;
                 newPlayer.IsActive = true;
             }

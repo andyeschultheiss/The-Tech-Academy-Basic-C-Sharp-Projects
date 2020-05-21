@@ -6,4 +6,10 @@
     <RootNamespace>Twenty_One</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="Casino">
+      <HintPath>..\Casino\obj\Debug\netstandard2.0\Casino.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Twenty_One
+namespace Casino.TwentyOne
 {
     public class TwentyOneDealer : Dealer
     {
