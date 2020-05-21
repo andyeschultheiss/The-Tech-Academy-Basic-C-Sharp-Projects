@@ -1,0 +1,13 @@
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic-File-IO\Basic-File-IO\bin\Debug\netcoreapp3.1\Basic-File-IO.exe
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic-File-IO\Basic-File-IO\bin\Debug\netcoreapp3.1\Basic-File-IO.deps.json
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic-File-IO\Basic-File-IO\bin\Debug\netcoreapp3.1\Basic-File-IO.runtimeconfig.json
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic-File-IO\Basic-File-IO\bin\Debug\netcoreapp3.1\Basic-File-IO.runtimeconfig.dev.json
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic-File-IO\Basic-File-IO\bin\Debug\netcoreapp3.1\Basic-File-IO.dll
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic-File-IO\Basic-File-IO\bin\Debug\netcoreapp3.1\Basic-File-IO.pdb
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic-File-IO\Basic-File-IO\obj\Debug\netcoreapp3.1\Basic-File-IO.csprojAssemblyReference.cache
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic-File-IO\Basic-File-IO\obj\Debug\netcoreapp3.1\Basic-File-IO.csproj.CoreCompileInputs.cache
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic-File-IO\Basic-File-IO\obj\Debug\netcoreapp3.1\Basic-File-IO.AssemblyInfoInputs.cache
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic-File-IO\Basic-File-IO\obj\Debug\netcoreapp3.1\Basic-File-IO.AssemblyInfo.cs
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic-File-IO\Basic-File-IO\obj\Debug\netcoreapp3.1\Basic-File-IO.dll
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic-File-IO\Basic-File-IO\obj\Debug\netcoreapp3.1\Basic-File-IO.pdb
+C:\Users\andye\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic-File-IO\Basic-File-IO\obj\Debug\netcoreapp3.1\Basic-File-IO.genruntimeconfig.cache
