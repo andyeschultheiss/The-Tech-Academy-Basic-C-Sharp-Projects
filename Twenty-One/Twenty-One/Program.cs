@@ -20,8 +20,19 @@ namespace Twenty_One
             {
                 Console.WriteLine("Please enter your name:");
                 string playerName = Console.ReadLine();
-                Console.WriteLine("How much money would you like to put up?");
-                int bank = Convert.ToInt32(Console.ReadLine());
+
+                bool validAnswer = false;
+                int bank = 0;
+                while (!validAnswer)
+                {
+                    Console.WriteLine("How much money would you like to put up?");
+                    validAnswer = int.TryParse(Console.ReadLine(), out bank);
+                    if (!validAnswer)
+                    {
+                        Console.WriteLine("Please enter digits only, no decimals.");
+                    }
+                }
+                
                 Player newPlayer = new Player(playerName, bank);
                 newPlayer.Id = Guid.NewGuid();
                 using (StreamWriter file = new StreamWriter(@"C:\Users\andye\logs\cardlog.txt", true))
@@ -34,7 +45,22 @@ namespace Twenty_One
 
             while (game.Players.Count > 0 && game.Players.Sum(x => x.Balance) > 0)
             {
-                game.Play();
+                try
+                {
+                    game.Play();
+                }
+                catch (FraudException)
+                {
+                    Console.WriteLine("Invalid bet entry. Security has been alerted to your activity. Please vacate the premises immediately.");
+                    Console.Read();
+                    return;
+                }
+                catch (Exception)
+                {
+                    Console.WriteLine("An error occurred. Please contact your system administrator.");
+                    Console.Read();
+                    return;
+                }
             }
 
             
